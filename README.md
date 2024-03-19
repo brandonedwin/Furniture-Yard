@@ -20,7 +20,7 @@ You can visit the live version of the Furnire-Yard website by clicking the link 
 
 ## 🧰 Technologies Used
 
-The Furnire-Yard website is built using the following technologies:
+The Furniture-Yard website is built using the following technologies:
 
 - HTML5
 - CSS3 (Sass/SCSS)
@@ -28,9 +28,9 @@ The Furnire-Yard website is built using the following technologies:
 - React.js
 - Sanity (Headless CMS)
 
-## 📸 Screenshot
+## 📸 Preview
 
-![Homepage](./frontend/src/assets/img/furnire-Yard-website.webp)
+![Homepage](./frontend/src/assets/img/furniture-Yard-website.webp)
 
 ## 💻 Features
 
