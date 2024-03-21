@@ -10,7 +10,7 @@ Furniture-Yard is an online marketplace where users can browse and purchase a wi
 
 At Furniture-Yard, we aim to provide a seamless and enjoyable shopping experience for furniture enthusiasts. With an extensive catalog of furniture listings, users can explore a diverse range of styles, designs, and categories to find the perfect pieces that match their preferences and needs.
 
-Visit the live version of the Furnire-Yard website today to browse our curated collection of remarkable furniture pieces and discover the perfect additions to transform your living spaces.
+Visit the live version of the Furniture-Yard website today to browse our curated collection of remarkable furniture pieces and discover the perfect additions to transform your living spaces.
 
 ## 🌎 Live Website
 
